@@ -1,5 +1,4 @@
 
-```
 **Usage Example:**
 ```powershell
 .\Check-SPN-NTLM.ps1 -ComputerName "SERVER01"
